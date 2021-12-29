@@ -7,7 +7,7 @@ import (
 )
 
 const (
-	serverKey = "AAAAuZhqvDY:APA91bE66rRGmyDlYZQ6rALPfX2Z1zdnHbrnyA7gy4ER6rFEybRB_20WqwBXxqowij8h6s7r_qwL1sxY19NE-Y742ciQODpiG4GxTe0pcIIxGdiNR9E9VDUJmEJ8lxmStyoyV7_H-suL"
+	serverKey = "Your-Key"
 	topic = "/topics/news"
 	title = "Test Tugas GoModules-Notif"
 	tanggal = "29/12/2021"
